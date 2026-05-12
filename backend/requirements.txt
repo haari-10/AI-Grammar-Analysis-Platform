@@ -1,0 +1,18 @@
+fastapi==0.103.2
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
+
+# NLP
+spacy==3.7.4
+nltk==3.8.1
+language-tool-python==2.8.1
+
+# Transformer
+transformers==4.41.2
+torch==2.3.0
+sentencepiece==0.2.0
+accelerate==0.30.0
+
+# Utilities
+textstat==0.7.3
