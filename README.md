@@ -1,5 +1,5 @@
 # AI-Grammar-Analysis-Platform 
-# AI Grammar Analysis Platform
+
 
 An AI-powered web application for automatic grammar error detection and correction using Rule-Based NLP and Transformer models.
 
